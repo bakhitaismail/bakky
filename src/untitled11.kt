@@ -13,4 +13,9 @@ fun main() {
     val kenyan: Boolean = true
     println(notKenyan)
     println(kenyan)
+    happy()
+}
+fun happy(){
+    var num = "Happiness"
+    println(num)
 }
