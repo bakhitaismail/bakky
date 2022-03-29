@@ -19,3 +19,9 @@ fun happy(){
     var num = "Rehema"
     println(num)
 }
+
+fun enjoyment(){
+var new ="live life"
+println(agenda)
+
+}
