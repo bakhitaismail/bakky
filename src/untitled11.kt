@@ -13,15 +13,8 @@ fun main() {
     val kenyan: Boolean = true
     println(notKenyan)
     println(kenyan)
-    happy()
+    pass(maldives)
 }
-fun happy(){
-    var num = "Rehema"
-    println(num)
-}
-
-fun enjoyment(){
-var new ="live life"
-println(agenda)
-
+fun pass(place:Sting){
+println("l would like to visit" $place.)
 }
