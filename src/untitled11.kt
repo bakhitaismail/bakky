@@ -13,4 +13,8 @@ fun main() {
     val kenyan: Boolean = true
     println(notKenyan)
     println(kenyan)
+    pass(maldives)
+}
+fun pass(place:Sting){
+println("l would like to visit" $place.)
 }
