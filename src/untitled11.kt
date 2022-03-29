@@ -4,7 +4,7 @@ fun main() {
     val ages = arrayOf(18, 20)
     println(ages[0])
     println(ages[1])
-    val phoneNumber = arrayOf("0711476132", "0110625151")
+    val phoneNumber = arrayOf("0718777705", "0711740066")
     println(phoneNumber)
     val  weight = arrayOf<String>("52kg","70kg", "45kg","66kg")
     println(weight[0])
